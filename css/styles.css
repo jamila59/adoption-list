@@ -1,0 +1,20 @@
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column2 p {
+  width: 300px;
+  float: left;
+  border: 2px solid red;
+}
+
+.column p a {
+  font-weight: bold;
+  color: Pink;
+}
+
+.column3 p a {
+  font-weight: bold;
+  color: blue;
+}
